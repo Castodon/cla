@@ -1,4 +1,4 @@
-# 春松客服个人贡献者许可协议
+# Castodon 个人贡献者许可协议
 <!-- Check out sample styles/default.m.md -->
 <!-- Get a full description of format in https://github.com/hailiang-wang/mark-markdown-up -->
 <!-- * How to get start with project, https://github.com/hailiang-wang/markdown2word-doc-template-->
