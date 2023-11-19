@@ -1,5 +1,4 @@
 # Castodon 个人贡献者许可协议
-[![CLA assistant](https://cla-assistant.io/readme/badge/Castodon/castodon)](https://cla-assistant.io/Castodon/castodon)
 
 <!-- Check out sample styles/default.m.md -->
 <!-- Get a full description of format in https://github.com/hailiang-wang/mark-markdown-up -->
